@@ -359,7 +359,7 @@ server <- function(input, output) {
 #  
 #  paste("Based on next week's prediction:", rec)
 #})
-
+# I have been working on this project on github using Git.
 }
 
 # ---------------------------
